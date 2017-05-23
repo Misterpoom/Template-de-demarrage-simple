@@ -1,2 +1,2 @@
 # MVC
-MVC vierge et perso à terminer
+Template simple avec grille css perso
